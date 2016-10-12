@@ -1,0 +1,8 @@
+HBaseTableMapper.class
+HBaseUtil.class
+WriteData.class
+HBaseTableMapper$MyMapper.class
+HBaseTableMapper$MyReducer.class
+HBaseTableReducer$HBaseReducer.class
+HBaseTableReducer$ReadTxt.class
+HBaseTableReducer.class
